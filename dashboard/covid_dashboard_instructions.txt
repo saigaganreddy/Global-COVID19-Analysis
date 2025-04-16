@@ -1,0 +1,11 @@
+📊 Power BI Dashboard Instructions
+
+1. Open Power BI Desktop
+2. Load the dataset from Kaggle (CSV files)
+3. Create the following visuals:
+   - Line chart: Daily Confirmed Cases over Time
+   - Map: Total Confirmed by Country
+   - Card: Total Confirmed, Deaths, Recovered
+   - Slicer/Filter: Country and Date
+
+4. Save the report as: covid_dashboard.pbix
